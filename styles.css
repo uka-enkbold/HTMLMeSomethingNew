@@ -1,3 +1,33 @@
+header{
+    color: red;
+}
 body {
-    background-color: 91818A;
+    margin: auto;
+    // display 
+    background-color: E2C044
+    
    }
+
+img {
+    float: left;
+  }
+
+h1 {
+text-align: center;
+}
+
+#demo{
+    color: green;
+    text-align: justify;
+}
+
+section{
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+    text-decoration: 587B7F;
+    font-weight: 300;
+    padding: auto;
+}
