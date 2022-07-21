@@ -19,11 +19,19 @@ text-align: center;
 #demo{
     color: green;
     text-align: justify;
+    align-content: center;
 }
 
 section{
     text-align: center;
 }
+
+.button {
+    display: block;
+    align-items: center;
+    border-radius: 50%
+
+  }
 
 footer{
     text-align: center;
